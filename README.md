@@ -2,7 +2,7 @@
 
 Data wrangling involves processing the data in various formats like - merging, grouping, concatenating etc. for the purpose of analyzing or getting them ready to be used with another set of data. Python has built-in features to apply these wrangling methods to various data sets to achieve the analytical goal. In this repo, I will show few examples describing these methods. For more info: [Wikipedia](https://en.wikipedia.org/wiki/Data_wrangling)
 
-Data wrangling is part of nearly every machine learning project. It arguably presents the biggest risk if done incorrectly and is one of the more subjective aspects in the process. Several common techniques include:
+#### Data wrangling is part of nearly every machine learning project. It arguably presents the biggest risk if done incorrectly and is one of the more subjective aspects in the process. Several common techniques include:
  - Handling missing values: Some machine learning algorithms are capable of handling missing values, but most would rather not.  Options include:
  - Removing observations with missing values: This works well if only a very small fraction of observations have incomplete information.
  - Removing features with missing values: This works well if there are a small number of features which have a large number of missing values.
